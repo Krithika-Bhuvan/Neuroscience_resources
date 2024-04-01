@@ -1,15 +1,6 @@
 # Neuroscience and Mental health related resources
 Curated resources related to Neuroscience and Mental health for open data science
 
-
-[TABLE OF CONTENTS](#neuroscience-and-mental-health-related-resources)
-  * [DATA COLLECTIONS ](#data-collections--taken-from-pmid-38493340-and-pmc6585382-)
-  * [GENERAL PURPOSE BRAIN IMAGING REPOSITORIES](#general-purpose-brain-imaging-repositories)
-  * [OPEN DATA SETS IN SCHIZOPHRENIA-SCZ](#open-data-sets-in-schizophrenia--scz---taken-from-pmc6585382-)
-  * [OPEN DATA RESOURCES IN SCHIZOPHRENIA-SCZ](#open-data-resources-for-biomarker-discovery-in-mental-health--particularly-in-schizophrenia--taken-from-pmc6585382-)
-
-
-
 ## Data collections (taken from PMID 38493340 and PMC6585382)
 * The **Stanley Brain Collection** is a large collection of tissue specimens that include five cohorts including Neuropathology Consortium, Array Collection, New Collection, Depression Collection and the Parietal Collection. http://www.stanleyresearch.org/brain-research/
 * The **Maryland Brain Collection (MBC)** is another collection of brain tissue from post-mortem individuals with SCZ and controls http://www.stanleyresearch.org/brain-research/maryland-brain-bank/.
