@@ -1,5 +1,6 @@
 # Neuroscience resources
-Neuroscience resources
+Curated Neuroscience related resources for open data science
+
 
 
 
