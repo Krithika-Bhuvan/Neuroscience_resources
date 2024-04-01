@@ -1,15 +1,28 @@
-# Neuroscience resources
-Curated Neuroscience related resources for open data science
+# Neuroscience and Mental health related resources
+Curated resources related to Neuroscience and Mental health for open data science
 
 
-## General purpose brain imaging repositories related to neuroscience
-* OpenNeuro: https://openneuro.org/ is a resource for sharing of neuroscience data
+## Data collections (taken from PMID 38493340 and PMC6585382)
+* The **Stanley Brain Collection** is a large collection of tissue specimens that include five cohorts including Neuropathology Consortium, Array Collection, New Collection, Depression Collection and the Parietal Collection. http://www.stanleyresearch.org/brain-research/
+* The **Maryland Brain Collection (MBC)** is another collection of brain tissue from post-mortem individuals with SCZ and controls http://www.stanleyresearch.org/brain-research/maryland-brain-bank/.
+* **Genomic Psychiatry Cohort (GPC)**, a data repository managed by NIMH for the investigation of SCZ, BD, OCD and controls and includes over 30,000 participants https://www.downstate.edu/psychiatry/research/index.html
+* **The ProteomeXchange Consortium** is a repository for proteomics datasets and includes data on CSF among others could be studied for association with MH disorders  http://proteomecentral.proteomexchange.org/cgi/GetDataset
+* Boersema et al describe the activities of the Biology/Disease-driven (B/D) working groups of the HPP focused on protein aggregation diseases including AD and Parkinson’s
+* **The Psychiatric Genomics Consortium** unites investigators to perform genome-wide genomic data for psychiatric disorders and contains more than 900,000 samples covering ASD, ADHD, BP, MDD, SCZ and many more https://www.med.unc.edu/pgc/.
+* Logue et al describe the activities **Psychiatric Genomics Consortium Posttraumatic Stress Disorder Workgroup** and describe their first large scale GWAS that includes over 10000 cases and 30000 controls
+* Gene expression omnibus is a NCBI data repository for high throughput molecular data including gene expression, micoRNA expression, RNA-seq data on numerous diseases and disorders including mental health disorders. https://www.ncbi.nlm.nih.gov/geo/.
+* **Religious Orders Study (ROS)** and the **Rush Memory and Aging Project (MAP)** are large datasets in AD that includes data whole genome sequencing (WGS, DNA methylation, chromatin immunoprecipitation with sequencing (Chip-seq), RNA-seq and microRNA expression profiling. These rich datasets are shared with the research community through the DREAM challenge and the National Institute of Aging AMP-AD research program. https://dss.niagads.org/cohorts/religious-orders-study-memory-and-aging-project-rosmap/
+* Another large multi-omics dataset with AD data is The Mount Sinai Brain Bank (MSBB) study made available through the AMP-AD Knowledge Portal in Synapse. https://adknowledgeportal.synapse.org/ 
+
+## General purpose brain imaging repositories 
+* **OpenNeuro:** https://openneuro.org/ is a resource for sharing of neuroscience data
 * Neuroimaging Informatics Tools and Resources Clearinghouse Image Repository (NITRC): https://www.nitrc.org/. Has comprehensive information on an ever expanding scope of neuroinformatics software and data.
-* The Cancer Imaging Archive (TCIA) , focused on cancer but includes brain cancer datasets TCGA-GBM (Glioblastoma), TCGA-LGG (Lower Grade Glioma), Rembrandt: https://www.cancerimagingarchive.net/
-* Imaging data commons (IDC), focused on cancer but incluces brain cancer datasets. Have option to connect tools to the data via a google cloud platform
+* The **Functional Connectomes Project** is also available through NITRC. It comprises data from >1400 healthy subjects who underwent fMRI scans that assessed their brain activity when their minds were at rest.
+* **The Cancer Imaging Archive (TCIA)** , focused on cancer but includes brain cancer datasets TCGA-GBM (Glioblastoma), TCGA-LGG (Lower Grade Glioma), Rembrandt: https://www.cancerimagingarchive.net/
+* **Imaging data commons (IDC)**, focused on cancer but incluces brain cancer datasets. Have option to connect tools to the data via a google cloud platform. https://datacommons.cancer.gov/repository/imaging-data-commons
 
 ## Open data sets in schizophrenia (SCZ) (Taken from PMC6585382)
-* Genomics
+* **Genomics**
   - phs000979.v1.p1 (PRJNA293910)	Gene Expression in Postmortem DLPFC and Hippocampus from Schizophrenia and Mood Disorders
   - phs000473.v2.p2 (PRJNA157243, PRJNA94281)	Sweden-Schizophrenia Population-Based Case-Control Exome Sequencing
   - phs000687.v1.p1	Bulgarian Schizophrenia Trio Sequencing Study
@@ -18,11 +31,11 @@ Curated Neuroscience related resources for open data science
   - phs000448.v1.p1	Genetics of Schizophrenia in an Ashkenazi Jewish Case-Control Cohort
   - phs000021.v3.p2	Genome-Wide Association Study of Schizophrenia
   - phs000167.v1.p1	Molecular Genetics of Schizophrenia-nonGAIN Sample (MGS nonGAIN)
-* Proteomics
+* **Proteomics**
   - PRIDE (PRoteomics IDEntifications), the leading proteomics data repository, has only three SCZ-related data sets: two in rat models and one in a mouse model.
-* Metabolomics
+* **Metabolomics**
   - EBI’s Metabolights and NCBI’s Metabolomics Workbench (MW) are two major metabolomics data repositories
-* Imaging repositories
+* **Imaging repositories**
   - SchizConnect is a federated portal that integrates data from three neuroimaging consortia on SCZ: FBIRN's Human Imaging Database (HID), MRN's Collaborative Imaging and Neuroinformatics System (COINS) and the Northwestern University Schizophrenia Data and Software Tool (NUSDAST) project 
 
 
