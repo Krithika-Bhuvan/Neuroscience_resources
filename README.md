@@ -2,6 +2,28 @@
 Curated Neuroscience related resources for open data science
 
 
+## General purpose brain imaging repositories related to neuroscience
+* OpenNeuro: https://openneuro.org/ is a resource for sharing of neuroscience data
+* Neuroimaging Informatics Tools and Resources Clearinghouse Image Repository (NITRC): https://www.nitrc.org/. Has comprehensive information on an ever expanding scope of neuroinformatics software and data.
+* The Cancer Imaging Archive (TCIA) , focused on cancer but includes brain cancer datasets TCGA-GBM (Glioblastoma), TCGA-LGG (Lower Grade Glioma), Rembrandt: https://www.cancerimagingarchive.net/
+* Imaging data commons (IDC), focused on cancer but incluces brain cancer datasets. Have option to connect tools to the data via a google cloud platform
+
+## Open data sets in schizophrenia (SCZ) (Taken from PMC6585382)
+* Genomics
+  - phs000979.v1.p1 (PRJNA293910)	Gene Expression in Postmortem DLPFC and Hippocampus from Schizophrenia and Mood Disorders
+  - phs000473.v2.p2 (PRJNA157243, PRJNA94281)	Sweden-Schizophrenia Population-Based Case-Control Exome Sequencing
+  - phs000687.v1.p1	Bulgarian Schizophrenia Trio Sequencing Study
+  - phs000738.v1.p1	Exome Sequencing in Schizophrenia Families  
+  - phs000608.v1.p1	Whole-Genome Profiling to Detect Schizophrenia Methylation Markers
+  - phs000448.v1.p1	Genetics of Schizophrenia in an Ashkenazi Jewish Case-Control Cohort
+  - phs000021.v3.p2	Genome-Wide Association Study of Schizophrenia
+  - phs000167.v1.p1	Molecular Genetics of Schizophrenia-nonGAIN Sample (MGS nonGAIN)
+* Proteomics
+  - PRIDE (PRoteomics IDEntifications), the leading proteomics data repository, has only three SCZ-related data sets: two in rat models and one in a mouse model.
+* Metabolomics
+  - EBI’s Metabolights and NCBI’s Metabolomics Workbench (MW) are two major metabolomics data repositories
+* Imaging repositories
+  - SchizConnect is a federated portal that integrates data from three neuroimaging consortia on SCZ: FBIRN's Human Imaging Database (HID), MRN's Collaborative Imaging and Neuroinformatics System (COINS) and the Northwestern University Schizophrenia Data and Software Tool (NUSDAST) project 
 
 
 ## Open data resources for biomarker discovery in mental health, particularly in schizophrenia (Taken from PMC6585382)
