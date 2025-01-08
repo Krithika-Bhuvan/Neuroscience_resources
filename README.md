@@ -1,5 +1,5 @@
 # Neuroscience and Mental health related resources
-Curated resources related to Neuroscience and Mental health for open data science.
+Curated resources related to Neuroscience and Mental health for open data science
 
 ## Data collections (taken from PMID 38493340 and PMC6585382)
 * The **Stanley Brain Collection** is a large collection of tissue specimens that include five cohorts including Neuropathology Consortium, Array Collection, New Collection, Depression Collection and the Parietal Collection. http://www.stanleyresearch.org/brain-research/
